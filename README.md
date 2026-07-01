@@ -57,7 +57,7 @@ The analysis yielded several key takeaways about ABC Company's workforce:
 
 * `ABC_Company_Analysis.ipynb`: Main Jupyter Notebook containing the Python code and visualizations.
 * `abc_company.xlsx`: The source dataset.
-* `README.md`: Project documentation (this file).
+* `README.md`: Project documentation.
 
 * **Language:** Python 3
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
