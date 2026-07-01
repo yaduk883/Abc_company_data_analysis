@@ -42,7 +42,7 @@ To effectively communicate the findings, the following visualizations were gener
 
 ---
 
-## Insights Gained
+## Insights 
 
 The analysis yielded several key takeaways about ABC Company's workforce:
 
@@ -53,17 +53,14 @@ The analysis yielded several key takeaways about ABC Company's workforce:
 
 ---
 
-## Additional Information
-
 ### Repository Structure
 
 * `ABC_Company_Analysis.ipynb`: Main Jupyter Notebook containing the Python code and visualizations.
 * `abc_company.xlsx`: The source dataset.
 * `README.md`: Project documentation (this file).
 
-### Tools & Technologies
-
 * **Language:** Python 3
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Environment:** Google Colab
-
+##Colab link
+https://colab.research.google.com/drive/1B2yzswfHLchzzvySk56yMLM1r0gtXwtC?usp=sharing
