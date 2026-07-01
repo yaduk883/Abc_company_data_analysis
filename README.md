@@ -33,7 +33,7 @@ The data was processed to answer specific questions regarding the workforce:
 To effectively communicate the findings, the following visualizations were generated using Matplotlib and Seaborn:
 
 | Analysis Task | Chart Type |
-| --- | --- |
+
 | **Team Distribution** | Bar Chart with percentage labels |
 | **Position Segregation** | Seaborn Count Plot |
 | **Age Demographics** | Seaborn Bar Chart |
